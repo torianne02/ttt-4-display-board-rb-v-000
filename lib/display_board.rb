@@ -4,4 +4,4 @@ def display_board(board)
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
 
-print display_board(board)
+puts display_board(board)
